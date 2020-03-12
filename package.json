@@ -1,0 +1,20 @@
+{
+  "name": "learnPHP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Don-Stevenson/learnPHP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Don-Stevenson/learnPHP/issues"
+  },
+  "homepage": "https://github.com/Don-Stevenson/learnPHP#readme"
+}
