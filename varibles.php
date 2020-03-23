@@ -40,6 +40,7 @@ $address = array('street' => '123 main street', 'city' => 'Pittsburg')
                     echo "$num_1 % $num_2 = " . ($num_1 % $num_2) . "<br>";
                     echo "Increment $num_1 = " . ($num_1++) . "<br>";
                     echo "decrement $num_1 = " . ($num--) . "<br>";
+                    echo number_format(12345.6789, 2) . "<br>" ;
                 }
         }
         ?>
